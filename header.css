@@ -1,0 +1,34 @@
+ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+
+  background:none ;
+  width: 100%;
+  height: 100px;
+}
+li{
+  font-family: 'Times New Roman', Times, serif;
+  float: left;
+  padding-top: 30px;
+  font-size: 25px;
+  font-weight: bold;
+
+}
+li a{
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  color: black;
+  text-transform: uppercase;
+  
+}
+li a:active{
+  background-color: #ddd;
+}
+li a.active{
+  color: red;
+  background-color: yellow;
+}

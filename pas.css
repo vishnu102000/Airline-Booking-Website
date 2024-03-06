@@ -1,0 +1,57 @@
+body{
+    background-image: url(Airline/seat\ economi.jpg);
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    border-radius: 100%;
+}
+.crepass{
+    position: relative;
+    max-width: 425px;
+    max-height: 700px;
+    z-index: 1;
+    background: linear-gradient(to bottom right , rgba(252, 250, 250, 0.867), rgba(48, 211, 220, 0.867));
+    text-align: center;
+    margin: 0 auto 100px;
+    margin-top: 4%;
+    margin-bottom: 5%;
+    border: 0;
+    padding: 50px;
+    box-shadow: 0 0 25px;
+    width: 100%;
+    
+}
+#cr{
+    text-decoration: none;
+    color: black;
+}
+input{
+    background-color: rgb(237, 237, 237);
+    width: 85%;
+    height: 35px;
+    text-align: center;
+    border: 0;
+    box-shadow: 0 0 10px;
+}
+h3{
+    font-size: 25px;
+}
+h4{
+    font-style: italic;
+}
+button{
+    background-color: rgb(50, 192, 50);
+    font-size: 16px;
+    text-transform: uppercase;
+    border: 0;
+    box-shadow: 0 0 10px;
+    width: 100px;
+    height: 30px;
+    text-decoration-line: none;
+
+}
+.message{
+    font-size: 16px;
+    font-style: italic;
+}
