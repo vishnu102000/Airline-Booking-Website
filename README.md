@@ -1,5 +1,5 @@
 # Airline-Booking-Website
-A new website for Airline Booking
+A new website for Airline Ticket Booking
 
 ## Getting Started
 This website is a start point for Web Development
