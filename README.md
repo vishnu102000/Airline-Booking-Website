@@ -9,7 +9,7 @@ The site includes basic information, which I referred to from similar airline we
 At the moment, the footer page is missing due to some technical issues. 
 Overall, this project showcases the HTML skills I've recently learned.
 
-## SCREENSHOTS OF WEB-PAGES
+### SCREENSHOTS OF WEB-PAGES
 
 # HOME PAGE
 ![Airline website1](https://github.com/user-attachments/assets/59181519-bb6f-4a0b-8573-e1820847a404)
