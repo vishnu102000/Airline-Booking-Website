@@ -14,8 +14,5 @@ Overall, this project showcases the HTML skills I've recently learned.
 
 
 
-https://github.com/user-attachments/assets/ff9f3499-5d67-4e95-9197-56b5b24c4f70
-
-
 
 
